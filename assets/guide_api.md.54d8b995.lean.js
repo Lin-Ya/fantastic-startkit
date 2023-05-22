@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,O as l}from"./chunks/framework.3225270e.js";const C=JSON.parse('{"title":"常用 API","description":"","frontmatter":{},"headers":[],"relativePath":"guide/api.md","filePath":"guide/api.md"}'),e={name:"guide/api.md"},t=l("",10),o=[t];function p(r,c,i,y,D,A){return a(),n("div",null,o)}const F=s(e,[["render",p]]);export{C as __pageData,F as default};
